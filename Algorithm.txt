@@ -1,0 +1,48 @@
+1. What is Pseudocode?
+Pseudocode is an informal, human-readable way of writing the steps of an algorithm or program. It looks like simplified programming language but doesn’t follow the strict rules (syntax) of any real programming language.
+
+2. Why and When Do We Use Pseudocode?
+(1)Why do we use pseudocode?
+1- To plan the logic of a program before writing actual code.
+2- To understand and explain algorithms easily.
+3- To avoid syntax errors, since it doesn’t follow strict programming rules.
+4- To make problem-solving clear and organized.
+
+(2)When do we use pseudocode?
+1- Before coding, to design the solution.
+2- During problem analysis, to break a problem into steps.
+3- In exams or assignments, to show logical thinking.
+4- When explaining programs to others, especially beginners.
+
+3. How to Write Pseudocode to Represent an Algorithm?
+(1) Understand the problem clearly: Know what the algorithm should do: the input, process, and output.
+
+(2) Start and end clearly: Use words like START and END to show where the algorithm begins and finishes.
+
+(3) Write steps in simple English: Each step should describe one action, written clearly and briefly.
+
+(4) Use common keywords:
+Examples:
+- INPUT / READ – to get data.
+- OUTPUT / PRINT / DISPLAY – to show results.
+- IF / ELSE – for decisions.
+- WHILE / FOR – for loops.
+
+(5) Write steps in logical order: The sequence should match how the task is actually performed.
+
+(6) Indent for clarity: Indentation helps show decisions and loops clearly.
+
+(7) Avoid programming syntax: Do not worry about exact rules of any programming language.
+------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
