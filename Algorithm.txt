@@ -149,6 +149,24 @@ START
   DISPLAY mergedList
 END
 
+(8)Find the Second Largest Number:
+START
+  READ list of numbers
+  largest ← -∞
+  secondLargest ← -∞
+
+  FOR each number in the list
+     IF number > largest THEN
+        secondLargest ← largest
+        largest ← number
+     ELSE IF number > secondLargest AND number < largest THEN
+        secondLargest ← number
+     ENDIF
+  ENDFOR
+
+  DISPLAY secondLargest
+END
+
 
 
 
