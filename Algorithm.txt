@@ -67,6 +67,24 @@ START
   DISPLAY smallest
 END
 
+(4) Count Positive and Negative Numbers:
+START
+  READ list of numbers
+  positiveCount ← 0
+  negativeCount ← 0
+
+  FOR each number in the list
+     IF number > 0 THEN
+        positiveCount ← positiveCount + 1
+     ELSE IF number < 0 THEN
+        negativeCount ← negativeCount + 1
+     ENDIF
+  ENDFOR
+
+  DISPLAY positiveCount
+  DISPLAY negativeCount
+END
+
 
 
 
