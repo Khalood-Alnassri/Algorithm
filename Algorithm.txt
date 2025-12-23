@@ -167,6 +167,29 @@ START
   DISPLAY secondLargest
 END
 
+(9) Check if a String is a Palindrome:
+START
+  READ string
+  left ← 0
+  right ← length of string - 1
+  isPalindrome ← true
+
+  WHILE left < right
+     IF string[left] ≠ string[right] THEN
+        isPalindrome ← false
+        BREAK
+     ENDIF
+     left ← left + 1
+     right ← right - 1
+  ENDWHILE
+
+  IF isPalindrome = true THEN
+     DISPLAY "Palindrome"
+  ELSE
+     DISPLAY "Not a Palindrome"
+  ENDIF
+END
+
 
 
 
