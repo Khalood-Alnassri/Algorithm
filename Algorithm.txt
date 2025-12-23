@@ -34,6 +34,15 @@ Examples:
 
 (7) Avoid programming syntax: Do not worry about exact rules of any programming language.
 ------------------------------------------------------------------------------------------------------------------
+2. Algorithm Design Tasks:
+
+(1) Calculate the average of five numbers
+START
+  READ n1, n2, n3, n4, n5
+  average ← (n1 + n2 + n3 + n4 + n5) / 5
+  DISPLAY average
+END
+
 
 
 
