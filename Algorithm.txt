@@ -85,6 +85,20 @@ START
   DISPLAY negativeCount
 END
 
+(5) Remove Duplicates from a List:
+START
+  READ list
+  uniqueList ← empty list
+
+  FOR each item in list
+     IF item is NOT in uniqueList THEN
+        ADD item to uniqueList
+     ENDIF
+  ENDFOR
+
+  DISPLAY uniqueList
+END
+
 
 
 
