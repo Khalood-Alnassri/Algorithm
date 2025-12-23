@@ -119,6 +119,36 @@ START
   ENDFOR
 END
 
+(7) Merge Two Sorted Lists:
+START
+  READ list1, list2
+  mergedList ← empty list
+  i ← 0
+  j ← 0
+
+  WHILE i < length of list1 AND j < length of list2
+     IF list1[i] ≤ list2[j] THEN
+        ADD list1[i] to mergedList
+        i ← i + 1
+     ELSE
+        ADD list2[j] to mergedList
+        j ← j + 1
+     ENDIF
+  ENDWHILE
+
+  WHILE i < length of list1
+     ADD list1[i] to mergedList
+     i ← i + 1
+  ENDWHILE
+
+  WHILE j < length of list2
+     ADD list2[j] to mergedList
+     j ← j + 1
+  ENDWHILE
+
+  DISPLAY mergedList
+END
+
 
 
 
