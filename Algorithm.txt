@@ -43,6 +43,17 @@ START
   DISPLAY average
 END
 
+(2) Check whether a number is even or odd
+START
+  READ number
+  IF number MOD 2 = 0 THEN
+     DISPLAY "Even"
+  ELSE
+     DISPLAY "Odd"
+  ENDIF
+END
+
+
 
 
 
