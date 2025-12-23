@@ -99,6 +99,26 @@ START
   DISPLAY uniqueList
 END
 
+(6) Find All Prime Numbers Up to N:
+START
+  READ N
+
+  FOR number ← 2 TO N
+     isPrime ← true
+
+     FOR divisor ← 2 TO number - 1
+        IF number MOD divisor = 0 THEN
+           isPrime ← false
+           BREAK
+        ENDIF
+     ENDFOR
+
+     IF isPrime = true THEN
+        DISPLAY number
+     ENDIF
+  ENDFOR
+END
+
 
 
 
