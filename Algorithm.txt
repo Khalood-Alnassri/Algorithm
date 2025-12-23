@@ -53,6 +53,20 @@ START
   ENDIF
 END
 
+(3) Find the Smallest Number in a List:
+START
+  READ list of numbers
+  smallest ← first number in the list
+
+  FOR each number in the list
+     IF number < smallest THEN
+        smallest ← number
+     ENDIF
+  ENDFOR
+
+  DISPLAY smallest
+END
+
 
 
 
