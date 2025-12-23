@@ -190,6 +190,27 @@ START
   ENDIF
 END
 
+(10) Generate Fibonacci Sequence:
+START
+  READ N
+  a ← 0
+  b ← 1
+
+  IF N ≥ 1 THEN
+     DISPLAY a
+  ENDIF
+  IF N ≥ 2 THEN
+     DISPLAY b
+  ENDIF
+
+  FOR i ← 3 TO N
+     c ← a + b
+     DISPLAY c
+     a ← b
+     b ← c
+  ENDFOR
+END
+
 
 
 
