@@ -1,0 +1,89 @@
+Algorithm components:
+
+(1) Calculate the average of five numbers:
+
+1. Input
+2. variables
+3. function
+4. output
+
+(2) Check whether a number is even or odd:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(3) Find the Smallest Number in a List:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(4) Count Positive and Negative Numbers:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(5) Remove Duplicates from a List:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(6) Find All Prime Numbers Up to N:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(7) Merge Two Sorted Lists:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(8)Find the Second Largest Number:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(9) Check if a String is a Palindrome:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
+
+(10) Generate Fibonacci Sequence:
+
+1. Input 
+2. variables
+3. function
+4. loops 
+5. conditional
+6. output
