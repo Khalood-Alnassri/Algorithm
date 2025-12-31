@@ -1,0 +1,15 @@
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\bin\Debug\net10.0\Algrithm.exe
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\bin\Debug\net10.0\Algrithm.deps.json
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\bin\Debug\net10.0\Algrithm.runtimeconfig.json
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\bin\Debug\net10.0\Algrithm.dll
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\bin\Debug\net10.0\Algrithm.pdb
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.AssemblyInfoInputs.cache
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.AssemblyInfo.cs
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.csproj.CoreCompileInputs.cache
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.sourcelink.json
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.dll
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\refint\Algrithm.dll
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.pdb
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\Algrithm.genruntimeconfig.cache
+C:\Users\khalood.kk\Desktop\Algrithm\Algrithm\obj\Debug\net10.0\ref\Algrithm.dll
